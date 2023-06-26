@@ -1,4 +1,5 @@
-function div(a, b) {
+function div(a, b) { 
+    if(b==0) return 0;
     return a/b;
   }
 
