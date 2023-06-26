@@ -1,0 +1,24 @@
+{
+  "name": "qualquercoisa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harazu/QualquerCoisa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harazu/QualquerCoisa/issues"
+  },
+  "homepage": "https://github.com/Harazu/QualquerCoisa#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
+
